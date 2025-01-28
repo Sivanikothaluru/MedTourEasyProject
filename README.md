@@ -1,4 +1,4 @@
-# MedTourEasyProject
+# MedTourEasy Project
 # Analysis of death age difference of right handers with left handers
 
 A 1991 study reported that left-handed people die on average nine years earlier than right-handed people. Let's explore this phenomenon using age distribution data to see if we can reproduce a difference in average age at death purely from the changing rates of left-handedness over time, refuting the claim of early death for left-handers.
